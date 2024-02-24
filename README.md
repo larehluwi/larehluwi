@@ -1,6 +1,7 @@
 💫 About Me: 
-- 👋 Hi, I’m @larehluwi<br> - 👀 I’m interested in learning programming languages<br> - 🌱 I’m currently learning python, javascript, css<br> - 📫 How to reach me larrylouie2001@gmail.com
-
+<ul>
+  - 👋 Hi, I’m @larehluwi<br> - 👀 I’m interested in learning programming languages<br> - 🌱 I’m currently learning python, javascript, css<br> - 📫 How to reach me larrylouie2001@gmail.com
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/larehluwi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@larrehluwi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/larehluwi) 
