@@ -1,4 +1,3 @@
-<img src='https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fkathryn-bernardo-v0-0qjztgo5zq2b1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D5753285c625e922d17b78c4441ab05a10377a82e' style="height: 400px;"/>
 #💫 About Me:
 - 👋 Hi, I’m @larehluwi<br>- 👀 I’m interested in learning programming languages<br>- 🌱 I’m currently learning python, javascript, css<br>- 📫 How to reach me larrylouie2001@gmail.com
 
