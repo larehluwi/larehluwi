@@ -1,5 +1,5 @@
-#💫 About Me:
- - 👋 Hi, I’m @larehluwi<br> - 👀 I’m interested in learning programming languages<br> - 🌱 I’m currently learning python, javascript, css<br> - 📫 How to reach me larrylouie2001@gmail.com
+💫 About Me: 
+- 👋 Hi, I’m @larehluwi<br> - 👀 I’m interested in learning programming languages<br> - 🌱 I’m currently learning python, javascript, css<br> - 📫 How to reach me larrylouie2001@gmail.com
 
 
 ## 🌐 Socials:
